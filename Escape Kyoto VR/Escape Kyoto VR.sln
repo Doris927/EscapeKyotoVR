@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9E6519F9-BC80-B90F-7FD8-54FEA7B7467D}") = "Escape Kyoto VR", "Assembly-CSharp-firstpass.csproj", "{D052FBC9-B190-6650-2761-A10A0D494419}"
+EndProject
+Project("{9E6519F9-BC80-B90F-7FD8-54FEA7B7467D}") = "Escape Kyoto VR", "Assembly-CSharp.csproj", "{180F3CAA-38AD-D6D7-E710-1AC30C399DB3}"
+EndProject
+Project("{9E6519F9-BC80-B90F-7FD8-54FEA7B7467D}") = "Escape Kyoto VR", "Assembly-CSharp-Editor.csproj", "{7772FD81-C76B-7DE5-7254-5B5B10402851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D052FBC9-B190-6650-2761-A10A0D494419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D052FBC9-B190-6650-2761-A10A0D494419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D052FBC9-B190-6650-2761-A10A0D494419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D052FBC9-B190-6650-2761-A10A0D494419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180F3CAA-38AD-D6D7-E710-1AC30C399DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180F3CAA-38AD-D6D7-E710-1AC30C399DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180F3CAA-38AD-D6D7-E710-1AC30C399DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180F3CAA-38AD-D6D7-E710-1AC30C399DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7772FD81-C76B-7DE5-7254-5B5B10402851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7772FD81-C76B-7DE5-7254-5B5B10402851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7772FD81-C76B-7DE5-7254-5B5B10402851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7772FD81-C76B-7DE5-7254-5B5B10402851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
